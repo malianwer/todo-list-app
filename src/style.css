@@ -1,0 +1,32 @@
+.main-form {
+  display: flex;
+  margin-top: 20px;
+  margin-left: 70px;
+}
+.form-control {
+  min-width: 340px;
+}
+.form-label {
+  font-weight: bold;
+}
+.form-row {
+  border: 1px solid;
+  box-shadow: 5px 5px 10px #719ac8;
+  padding: 40px;
+}
+.btn {
+  background-color: #85a4d0 !important;
+  border-color: #85a4d0 !important;
+}
+.card {
+  margin-left: 50px;
+  height: 190px;
+  background: #9ba8d5 !important;
+}
+.list-unstyled {
+  text-align: initial;
+}
+.card {
+  box-shadow: 5px 5px 10px #719ac8;
+  border: 1px solid !important;
+}
